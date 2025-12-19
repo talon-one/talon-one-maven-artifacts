@@ -13,7 +13,7 @@ Add the following to your `pom.xml`:
 <dependency>
   <groupId>one.talon</groupId>
   <artifactId>talon-one-client</artifactId>
-  <version>25.27</version>
+  <version>25.26</version>
   <scope>compile</scope>
 </dependency>
 ```
