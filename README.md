@@ -5,7 +5,7 @@ Add the following to your `pom.xml`:
 ```xml
 <repository>
   <id>talon-one</id>
-  <url>https://github.com/talon-one/talon-one-maven-artifacts/raw/master</url>
+  <url>https://github.com/talon-one/talon-one-maven-artifacts/raw/main</url>
 </repository>
 ```
 
@@ -13,7 +13,7 @@ Add the following to your `pom.xml`:
 <dependency>
   <groupId>one.talon</groupId>
   <artifactId>talon-one-client</artifactId>
-  <version>26.08.0</version>
+  <version>26.08.01</version>
   <scope>compile</scope>
 </dependency>
 ```
